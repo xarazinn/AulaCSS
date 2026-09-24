@@ -37,3 +37,18 @@ h3
 {
     text-decoration: underline;
 }
+.destaque
+{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+.cursiva
+{
+    font-family: 'Lucida Handwriting';
+    font-size: 20px;
+    color: purple;
+}
+.google
+{
+    font-family: 'Agu Display';font-size: 22px;
+}
