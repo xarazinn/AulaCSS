@@ -24,3 +24,35 @@ h1
     font-weight: bold;
     text-decoration: underline;
 }
+.exemplo1
+{
+    border: 1px solid #960000;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+}
+.centralizado
+{
+    display: flex;
+    justify-content: center;
+}
+.inicio
+{
+    display: flex;
+    justify-content: flex-start;
+}
+.fim
+{
+    display: flex;
+    justify-content: flex-end;
+}
+.around
+{
+    display: flex;
+    justify-content: space-around;
+}
+.between
+{
+    display: flex;
+    justify-content: space-between;
+}
